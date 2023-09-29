@@ -36,7 +36,7 @@
              Email : <input type="text" name="email" id="" class="form-control" placeholder="input email.." required><br>
              Password : <input type="password" name="password" id="" class="form-control" placeholder="input Password.." required >
               <br>
-              <button type="submit" class="btn btn-primary">Submit</button>
+              <button type="submit" class="btn btn-primary">Submitt</button>
               <br><br>
               <a href="{{ url('auth/register') }}" class="btn btn-warning">Belom Punya Akun</a>
         </form>
